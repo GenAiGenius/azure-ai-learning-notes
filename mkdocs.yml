@@ -1,0 +1,33 @@
+site_name: Azure AI Learning Notes
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.expand
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Azure AI Agents:
+      - Overview: azure-ai-agents/overview.md
+      - Flows:
+          - A) Q&A + RAG: azure-ai-agents/flow-a-qa-rag.md
+          - B) Q&A + Action: azure-ai-agents/flow-b-qa-action.md
+          - C) Action + Approval: azure-ai-agents/flow-c-action-approval.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - js/mermaid-init.js
