@@ -6,7 +6,8 @@ Grounded answers from your knowledge base with citations.
 ## Sequence (high level)
 Client → APIM → Agent → RAG tool → AI Search → OpenAI → Agent → APIM → Client
 
-<img width="2305" height="731" alt="image" src="https://github.com/user-attachments/assets/0927bca6-ab09-4aaf-8ba0-6852670b6618" />
+<img width="2344" height="836" alt="image" src="https://github.com/user-attachments/assets/f70b2009-0889-40a8-911a-17bb6c473707" />
+
 
 
 Scenario — Internal IT/HR policy Q&A
