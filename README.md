@@ -20,9 +20,9 @@ A practical, public set of notes and examples for building **Azure AI solutions*
   - **B) Q&A + Action (OBO):** `docs/azure-ai-agents/flow-b-qa-action.md`
   - **C) Action + Approval (Workflow):** `docs/azure-ai-agents/flow-c-action-approval.md`
 - **.NET quickstart:** minimal code to stand up an agent and add RAG/tooling  
-  *(optional page if you include it)* `docs/dotnet/setup.md`
+   `docs/dotnet/setup.md`
 - **GitHub Pages how-to:** publishing this site from your repo  
-  *(optional page if you include it)* `docs/github/how-to-publish.md`
+  `docs/github/how-to-publish.md`
 
 > This repo is organized as a **MkDocs Material** site so the docs render cleanly on GitHub Pages.
 
