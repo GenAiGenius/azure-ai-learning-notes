@@ -1,4 +1,4 @@
-# Flow B — Q&A + Business Action
+# Flow B — Agentic AI Q&A + Business Action
 
 ## Goal
 Combine grounded guidance with a real action (e.g., create ticket/RMA).
